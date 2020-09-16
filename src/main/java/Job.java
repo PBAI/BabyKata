@@ -19,4 +19,7 @@ public class Job {
         }
         this.endTime = endTimeToSet;
     }
+
+    public void setFamily(Family familyA) {
+    }
 }
