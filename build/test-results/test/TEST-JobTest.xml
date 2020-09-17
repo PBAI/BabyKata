@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="JobTest" tests="3" skipped="1" failures="0" errors="0" timestamp="2020-09-16T00:34:24" hostname="MIKAYLAS-RAZER-" time="0.004">
+<testsuite name="JobTest" tests="3" skipped="1" failures="0" errors="0" timestamp="2020-09-17T00:45:44" hostname="AMAC02XW0ZHJG5M" time="0.003">
   <properties/>
   <testcase name="shouldNotHaveStartTimeEarlierThanFivePM" classname="JobTest" time="0.002"/>
   <testcase name="shouldNotHaveEndTimeAfterFourAM" classname="JobTest" time="0.0"/>
-  <testcase name="shouldCalculateMoneyOwedBasedOnFamily" classname="JobTest" time="0.0">
+  <testcase name="shouldCalculateMoneyOwedBasedOnFamilySetForJob" classname="JobTest" time="0.001">
     <skipped/>
   </testcase>
   <system-out><![CDATA[]]></system-out>
